@@ -3,7 +3,7 @@
 ## Contacts:
 **Phone:** +375 33 318-09-89\
 **E-mail:** stepik-2003@yandex.ru\
-**Telegram:** https://t.me/lasaagnya\
+**Telegram:** https://t.me/lasaagnya \
 **GitHub:** https://github.com/Lasagnya
 
 ## About Me
