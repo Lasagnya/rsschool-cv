@@ -1,1 +1,0 @@
-https://lasagnya.github.io/rsschool-cv/cv
