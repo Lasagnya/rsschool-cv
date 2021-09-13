@@ -1,9 +1,9 @@
 # Stepan Beloushko
 
 ## Contacts:
-**Phone:** +375 33 318-09-89
-**E-mail:** stepik-2003@yandex.ru
-**Telegram:** https://t.me/lasaagnya
+**Phone:** +375 33 318-09-89\
+**E-mail:** stepik-2003@yandex.ru\
+**Telegram:** https://t.me/lasaagnya\
 **GitHub:** https://github.com/Lasagnya
 
 ## About Me
@@ -29,7 +29,7 @@ const func = (num) => {
 ```
 
 ## Education
-**University:** Belarusian State University, engineer-programmer
+**University:** Belarusian State University, engineer-programmer\
 **Courses:** RS School
 
 ## English
