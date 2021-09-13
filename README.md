@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fongwed.github.io/rsschool-cv/cv
