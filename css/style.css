@@ -1,0 +1,17 @@
+.site{
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: Segoe UI;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+#name{
+    text-align: center;
+}
+
+a {
+    color:   #2ba459 ;
+    text-decoration: none;
+  }
