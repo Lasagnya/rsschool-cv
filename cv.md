@@ -16,7 +16,7 @@ I am a young, purposeful person who dreams of becoming a highly qualified specia
 * CSS
 * JavaScript(learning)
 * Git, GitHub
-* VS Code, IntelliJ IDEA
+* VS Code, IntelliJ IDEA, Visual Studio
 
 ## Code Example
 ```javascript
